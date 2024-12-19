@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I might be batman.
 
 
-![You have hit the conter numberr :](https://hits.sh/github.com/<YOUR_USERNAME>/<YOUR_PROFILE_REPO_NAME>.svg)
+![You have hit the conter numberr :](https://hits.sh/github.com/xSanYay/xSanYay.svg)
 <!---
 xSanYay/xSanYay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
