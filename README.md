@@ -6,6 +6,8 @@
 - 😄 Pronouns: Him
 - ⚡ Fun fact: I might be batman.
 
+
+![Hits](https://hits.sh/github.com/<YOUR_USERNAME>/<YOUR_PROFILE_REPO_NAME>.svg)
 <!---
 xSanYay/xSanYay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
