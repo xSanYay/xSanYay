@@ -10,7 +10,8 @@
 
 ![You have hit the counter number :](https://hits.sh/github.com/xSanYay/xSanYay.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&layout=compact&hide=jupyter%20notebook)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xSanYay&show_icons=true&theme=radical)
 <!---
