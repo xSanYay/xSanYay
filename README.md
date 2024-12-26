@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @xSanYay
-- 👀 When it comes to something practical I’m pretty much about Robotics  
-- 🌱 When its about the theoretical I dive into ML and coding interesting stuff !
+- 👀 When it comes to something practical I’m pretty much about Robotics and building >!  
+- 🌱 When its about the theoretical I dive into DL and ML and coding interesting stuff >!
 - 💞️ As a hobby I take finance and its very serious.
-- 📫 Contact me through my linkedin https://www.linkedin.com/in/sanjay-s-8ab0b2264/
-- 😄 Pronouns: Him
-- ⚡ Fun fact: I might be batman.
+- 📫 My linkedin https://www.linkedin.com/in/sanjay-s-8ab0b2264/
+- ⚡ I might be batman.
 
 
 
