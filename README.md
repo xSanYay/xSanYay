@@ -9,7 +9,7 @@
 
 ![You have hit the counter number :](https://hits.sh/github.com/xSanYay/xSanYay.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&layout=compact&hide=jupyter%20notebook&langs_count=8&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&layout=compact&hide=jupyter%20notebook)
 
 
 <!---
