@@ -53,11 +53,8 @@
  ⚡ &emsp; I might be batman.
 </p>
 <br/>
-<br/>
-<br/>
 
 ## Crafting In
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)
@@ -71,7 +68,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -97,11 +93,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/xSanYay">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSanYay&theme=radical" alt="xSanYay's GitHub Contribution" style="width: 50%;"/>
-  </a>
-</p>
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/xSanYay"> -->
+<!--     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSanYay&theme=radical" alt="xSanYay's GitHub Contribution" style="width: 50%;"/> -->
+<!--   </a> -->
+<!-- </p> -->
 
 <!-- Add the most used language image here -->
 <p align="center">
