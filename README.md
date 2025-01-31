@@ -97,14 +97,13 @@
   </a>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/xSanYay">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSanYay&theme=radical" alt="xSanYay's GitHub Contribution" style="width: 50%;"/>
-
   </a>
 </p>
 
-<a> 
 <!--     <a href="https://github.com/xSanYay"><img alt="xSanYay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=xSanYay&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
   <a href="https://github.com/xSanYay"><img alt="xSanYay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
