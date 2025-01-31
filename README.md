@@ -15,14 +15,12 @@
   <img align="right" src="https://hits.sh/github.com/xSanYay.svg?label=Visitors&color=0e75b6&style=flat" alt="Profile visitor count" />
 </a>
 
-
 <!-- Intro -->
 <h3 align="center">
         <samp>&gt; Hi, I am
                 <b><a target="_blank" href="https://xSanYay.com">xSanYay</a></b>
         </samp>
 </h3>
-
 <p align="center"> 
   <samp>
     <br>
@@ -42,7 +40,6 @@
   </a>  -->
 </p>
 <br />
-
 <!-- About Section -->
 # About me
  
@@ -53,17 +50,11 @@
  🤓 &emsp; When its about the theoretical I dive into DL,ML and coding cool stuff >! <br/><br/>
  💞️ &emsp; As a hobby I love finance and its very serious.<br/><br/>
  ⚡ &emsp; I might be batman.
-
 </p>
-
 <br/>
 <br/>
 <br/>
-
-## Use To Code
-(Same tech stack section remains unchanged)
-
-## Use To Code
+## Crafting In
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=white)
@@ -88,8 +79,7 @@
 
 <!-- ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=xSanYay&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/xSanYay/itasks)-->
-
-
+## My few drops in the Ocean
 <p align="left">
   <a href="https://github.com/xSanYay?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
