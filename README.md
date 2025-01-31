@@ -40,6 +40,7 @@
   </a>  -->
 </p>
 <br />
+
 <!-- About Section -->
 # About me
  
@@ -54,6 +55,7 @@
 <br/>
 <br/>
 <br/>
+
 ## Crafting In
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
@@ -97,7 +99,8 @@
 
 <p align="center">
   <a href="https://github.com/xSanYay">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSanYay&theme=radical" alt="xSanYay's GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSanYay&theme=radical" alt="xSanYay's GitHub Contribution" style="width: 50%;"/>
+
   </a>
 </p>
 
