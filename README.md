@@ -31,9 +31,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/sanjay-s-8ab0b2264/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="xSanYay"/>
- </a>
+
   
 <!--  <a href="https://facebook.com/xSanYay.dev" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="xSanYay" />
