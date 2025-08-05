@@ -40,15 +40,14 @@
 <br />
 
 <!-- About Section -->
-# About me
  
 <p>
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
    -->
- 🤖 &emsp; When it comes to irl I’m pretty much about Robotics and building >! <br/><br/>
+ 🤖 &emsp; When it comes to irl I’m pretty much about Coding and Robotics >! <br/><br/>
  🤓 &emsp; When its about the theoretical I dive into DL,ML and coding cool stuff >! <br/><br/>
- 💞️ &emsp; As a hobby I love finance and its very serious.<br/><br/>
- ⚡ &emsp; I might be batman.
+ 😶‍🌫️ &emsp; As a hobby I love finance and its very serious.<br/><br/>
+ ⚡ &emsp; I am batman.
 </p>
 <br/>
 
