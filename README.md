@@ -45,6 +45,7 @@
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
    -->
  🤖 &emsp; I build, a lot of cool stuff.
+  
  ⚡ &emsp; I am batman.
 </p>
 <br/>
