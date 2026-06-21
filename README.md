@@ -44,9 +44,10 @@
 <p>
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
    -->
- 🤖 &emsp; I build, a lot of cool stuff.
+ ⏧ &emsp; I build
+
   
- ⚡ &emsp; I am batman.
+<!-- ⚡ &emsp; I am batman.
 </p>
 <br/>
 
@@ -71,11 +72,11 @@
 <br/>
 <br/>
 
-<!-- ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=xSanYay&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/xSanYay/itasks)-->
+ ## Top Open Source -
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=xSanYay&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/xSanYay/itasks)
 ## My few drops in the Ocean
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/xSanYay?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
@@ -87,7 +88,7 @@
   <a href="https://github.com/xSanYay">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xSanYay&theme=radical&border=7F3FBF&background=0D1117" alt="xSanYay's GitHub streak"/>
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/xSanYay"> -->
