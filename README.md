@@ -16,11 +16,11 @@
 </a>
 
 <!-- Intro -->
-<h3 align="center">
+<!-- <h3 align="center">
         <samp>&gt; Hi, I am
                 <b><a target="_blank" href="https://xSanYay.com">xSanYay</a></b>
         </samp>
-</h3>
+</h3> -->
 <p align="center"> 
   <samp>
     <br>
@@ -44,7 +44,7 @@
 <p>
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
    -->
- ⏧ &emsp; I build
+ ⏧ &emsp; I build, I break, I fix
 
   
 <!-- ⚡ &emsp; I am batman.
