@@ -18,11 +18,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08071c,45:6622b5,100:00d9ff&text=Sanjay%20S&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Backend%20Engineering%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Curious%20Builder&descAlignY=59&animation=fadeIn" width="100%" alt="Sanjay S banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08071c,45:6622b5,100:00d9ff&text=Sanjay%20S&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=I%20am%20the%20curious%20cat&descAlignY=59&animation=fadeIn" width="100%" alt="Sanjay S banner" />
 
-<a href="https://github.com/xSanYay"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sanjay.;I+build+backends+and+AI-powered+systems.;Usually+experimenting+with+something+new." alt="Animated introduction" /></a>
+<a href="https://github.com/xSanYay"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sanjay.;I+build+backends+and+AI-powered+products;Usually+experimenting+with+something+random" alt="Animated introduction" /></a>
 
-<a href="https://github.com/xSanYay"><img src="https://img.shields.io/badge/GitHub-xSanYay-151026?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://xsanyay.github.io/persport/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-151026?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sanjay-s-8ab0b2264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-151026?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
 
 </div>
