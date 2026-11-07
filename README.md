@@ -15,6 +15,7 @@
   <img align="right" src="https://hits.sh/github.com/xSanYay.svg?label=Visitors&color=0e75b6&style=flat" alt="Profile visitor count" />
 </a>
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08071c,45:6622b5,100:00d9ff&text=Sanjay%20S&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Backend%20Engineering%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Curious%20Builder&descAlignY=59&animation=fadeIn" width="100%" alt="Sanjay S banner" />
@@ -28,7 +29,7 @@
 
 ### `> whoami`
 
-I'm a Python backend developer in Bengaluru, working on AI-powered support systems, agent workflows, search, and integrations. Outside work, I like building practical tools, tinkering with local AI, and exploring ideas that involve both software and hardware.
+I'm a Python backend developer, working on AI-powered support systems, agent workflows, search, and integrations. Outside work, I like building practical tools, tinkering with local AI, and exploring ideas that involve both software and hardware. I love open AI models, and deem them the future. I also have a keen interest in finance.
 
 ```yaml
 focus:
@@ -38,7 +39,8 @@ focus:
   - Automation and self-hosted tools
 currently_exploring:
   - Privacy-first personal AI agents
-  - Local speech-to-text
+  - System Design
+  - Local models ( LLMs, STT, TTS and system one models)
   - 3D printing and hardware projects
 ```
 
@@ -63,17 +65,12 @@ currently_exploring:
 | :--- | :--- |
 | **[ProtoDeccan](https://protodeccan.com/)** | A 3D-printing venture and its web presence. |
 | **Spendwise** | A personal finance tracker that works with transaction emails and statements. |
-| **Photo Booth** | A hardware-meets-software photo booth setup, from camera to print. |
-| **Personal AI setup** | Exploring local agents, Telegram access, and speech-to-text. |
+| **Personal AI setups** | Exploring local agents, Telegram access, and speech-to-text. |
 
 ### `> git status`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=00E5FF&text_color=C9C6E8" alt="Most-used public repository languages" />
-
 <sub>Still building. Still breaking things. Still learning.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=95&color=0:08071c,45:6622b5,100:00d9ff" width="100%" alt="Neon footer" />
