@@ -15,95 +15,65 @@
   <img align="right" src="https://hits.sh/github.com/xSanYay.svg?label=Visitors&color=0e75b6&style=flat" alt="Profile visitor count" />
 </a>
 
-<!-- Intro -->
-<!-- <h3 align="center">
-        <samp>&gt; Hi, I am
-                <b><a target="_blank" href="https://xSanYay.com">xSanYay</a></b>
-        </samp>
-</h3> -->
-<p align="center"> 
-  <samp>
-    <br>
-    「 I am not a robot or am I ?」
-    <br>
-    <br>
-  </samp>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:08071c,45:6622b5,100:00d9ff&text=Sanjay%20S&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Backend%20Engineering%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Curious%20Builder&descAlignY=59&animation=fadeIn" width="100%" alt="Sanjay S banner" />
 
-  
-<!--  <a href="https://facebook.com/xSanYay.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="xSanYay" />
-  </a>  -->
-</p>
-<br />
+<a href="https://github.com/xSanYay"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sanjay.;I+build+backends+and+AI-powered+systems.;Usually+experimenting+with+something+new." alt="Animated introduction" /></a>
 
-<!-- About Section -->
- 
-<p>
-<!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-   -->
- ⏧ &emsp; I build, I break, I fix
+<a href="https://github.com/xSanYay"><img src="https://img.shields.io/badge/GitHub-xSanYay-151026?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/sanjay-s-8ab0b2264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-151026?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
 
-  
-<!-- ⚡ &emsp; I am batman.
-</p>
-<br/>
+</div>
 
-## Crafting In
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=black&logo=pytorch&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=black&logo=powerbi&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&labelColor=black&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### `> whoami`
 
-<br/>
-<br/>
+I'm a Python backend developer in Bengaluru, working on AI-powered support systems, agent workflows, search, and integrations. Outside work, I like building practical tools, tinkering with local AI, and exploring ideas that involve both software and hardware.
 
- ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=xSanYay&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/xSanYay/itasks)
-## My few drops in the Ocean
+```yaml
+focus:
+  - Backend engineering & APIs
+  - LLM-powered agents and RAG
+  - Search, retrieval and evaluation
+  - Automation and self-hosted tools
+currently_exploring:
+  - Privacy-first personal AI agents
+  - Local speech-to-text
+  - 3D printing and hardware projects
+```
 
-<!-- <p align="left">
-  <a href="https://github.com/xSanYay?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+### `> stack --list`
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/xSanYay">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xSanYay&theme=radical&border=7F3FBF&background=0D1117" alt="xSanYay's GitHub streak"/>
-  </a>
-</p> -->
+![Python](https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=00D9FF)
+![Django](https://img.shields.io/badge/Django-0B1020?style=for-the-badge&logo=django&logoColor=00D9FF)
+![React](https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-0B1020?style=for-the-badge&logo=opensearch&logoColor=00D9FF)
+![AWS](https://img.shields.io/badge/AWS-0B1020?style=for-the-badge&logo=amazonwebservices&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=00D9FF)
+![Linux](https://img.shields.io/badge/Linux-0B1020?style=for-the-badge&logo=linux&logoColor=00D9FF)
 
-<!-- <p align="center"> -->
-<!--   <a href="https://github.com/xSanYay"> -->
-<!--     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xSanYay&theme=radical" alt="xSanYay's GitHub Contribution" style="width: 50%;"/> -->
-<!--   </a> -->
-<!-- </p> -->
+</div>
 
-<!-- Add the most used language image here -->
-<!-- <p align="center">
-  <a href="https://github.com/xSanYay">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&layout=compact&theme=radical&exclude_repo=DiffusionModel---Attgan" alt="xSanYay's Most Used Languages"/>
-  </a>
-</p> -->
-<!-- <!--     <a href="https://github.com/xSanYay"><img alt="xSanYay's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=xSanYay&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-<!--   <a href="https://github.com/xSanYay"><img alt="xSanYay's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a> --> 
+### `> ls projects/`
 
+| Project | What I'm building |
+| :--- | :--- |
+| **[ProtoDeccan](https://protodeccan.com/)** | A 3D-printing venture and its web presence. |
+| **Spendwise** | A personal finance tracker that works with transaction emails and statements. |
+| **Photo Booth** | A hardware-meets-software photo booth setup, from camera to print. |
+| **Personal AI setup** | Exploring local agents, Telegram access, and speech-to-text. |
+
+### `> git status`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSanYay&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=00E5FF&text_color=C9C6E8" alt="Most-used public repository languages" />
+
+<sub>Still building. Still breaking things. Still learning.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=95&color=0:08071c,45:6622b5,100:00d9ff" width="100%" alt="Neon footer" />
